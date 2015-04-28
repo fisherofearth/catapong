@@ -21,7 +21,7 @@
  */
 
 #define CMD_SPIN 	1
-#define CMD_STOP	2
+#define CMD_STOP	5
 
 #define ABS(x)	((x)<0?(-(x)):(x))
 
